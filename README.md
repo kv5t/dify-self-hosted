@@ -1,6 +1,5 @@
 # Self-Hosted Dify: Perfect AI App Builder
 
-Welcome to the guide on setting up and using Dify, a powerful open-source platform for building AI applications. This document will walk you through the process of self-hosting Dify on a Google Cloud VM using Docker and Docker Compose, and how to trigger workflows using APIs.
 
 
 
